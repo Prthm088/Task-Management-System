@@ -32,6 +32,7 @@ A full-featured task management application with user authentication, team colla
 
 ## 🚀 Getting Started
 
+
 ### 1. Clone the Repo
 
 git clone https://github.com/Prthm088/Task-Management-System.git
